@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi there</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<h1 align="center">👋 Hi There</h1>
+<h3 align="center">A passionate full-stack developer from Portugal</h3>
 
 <br/>
 
