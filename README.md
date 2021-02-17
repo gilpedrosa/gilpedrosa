@@ -27,10 +27,44 @@
     <td>8</td>
   </tr>
   <tr>
-    <td style='background: grey'>AngularJS</td>
-    <td style='background: grey'>
-      8
-    </td>
+    <td>AngularJS</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>Angular/TypeScript</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>VueJS</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>JQuery</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>HTML5</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>SCSS</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>Vanilla JavaScript</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>PHP</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>C#</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>JSON</td>
+    <td>7</td>
   </tr>
 </table>
 
