@@ -14,7 +14,7 @@
 
 ## Skills
 
-<table>
+<table style="border: none;">
   <tr>
     <td>
 <table>
