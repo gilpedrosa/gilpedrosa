@@ -53,7 +53,7 @@
         <td>Angular/TypeScript</td>
         <td>5</td>
         <td>MongoDB</td>
-        <td>7</td>
+        <td align="right">7</td>
     </tr>
     <tr>
         <td>VueJS</td>
