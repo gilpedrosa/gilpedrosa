@@ -116,3 +116,5 @@
         <td>5</td>
     </tr>
 </table>
+
+*\*Personal classification, between 1 and 10, where 10 means that I feel very comfortable with the language / framework and where 1 means that I have already worked with it but without any deepening.*
