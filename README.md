@@ -11,11 +11,11 @@
         <img align="center" src="readme/www.svg" alt="Web" height="30" width="30" />
     </a>
     &nbsp;
-    <a href="https://gitlab.com/gilpedrosa" target="blank">
+    <a href="https://gitlab.com/gilpedrosa" target="blank" style="text-decoration: none;">
         <img align="center" src="readme/gitlab.svg" alt="Gitlab" height="30" width="30" />
     </a>
     &nbsp;
-    <a href="https://linkedin.com/in/gil-pedrosa" target="blank">
+    <a href="https://linkedin.com/in/gil-pedrosa" target="blank" style="text-decoration: none;">
         <img align="center" src="readme/linkedin.svg" alt="Linkedin" height="30" width="30" />
     </a>
 </p>
