@@ -81,26 +81,38 @@
     <tr>
         <td>Vanilla JavaScript</td>
         <td>8</td>
-        <td>ExpressJS</td>
-        <td>8</td>
+        <th colspan="2">Mobile Developer</th>
     </tr>
     <tr>
         <td>PHP</td>
         <td>3</td>
-        <td>ExpressJS</td>
-        <td>8</td>
+        <td>Flutter</td>
+        <td>7</td>
     </tr>
     <tr>
         <td>C#</td>
         <td>3</td>
-        <td>ExpressJS</td>
-        <td>8</td>
+        <td>Java</td>
+        <td>7</td>
     </tr>
     <tr>
         <td>JSON</td>
         <td>7</td>
-        <td>ExpressJS</td>
-        <td>8</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td colspan="2"></td>
+        <th colspan="2">IoT Developer</th>
+    </tr>
+    <tr>
+        <th colspan="2">Software Developer</th>
+        <td>C/C++</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>Visual Basic</td>
+        <td>5</td>
+        <td>Python</td>
+        <td>5</td>
     </tr>
 </table>
-
