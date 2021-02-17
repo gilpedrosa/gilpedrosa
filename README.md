@@ -132,7 +132,12 @@
         <td>Python</td>
         <td align="right">5</td>
     </tr>
+    <tr border="none">
+        <td border="none" colspan="4">
+            <p></p>
+            <p>
+                * Personal classification, between 1 and 10, where 10 means that I feel very comfortable with the language/framework and where 1 means that I have already worked with it but without any deepening.
+            </p>
+        </th>
+    </tr>
 </table>
-<p>
-    * Personal classification, between 1 and 10, where 10 means that I feel very comfortable with the language/framework and where 1 means that I have already worked with it but without any deepening.
-</p>
