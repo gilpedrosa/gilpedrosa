@@ -4,6 +4,8 @@
 <br/>
 <br/>
 
+<h2>Contacts</h2>
+
 <p align="center">
     <a href="https://zeruns.com" target="blank">
         <img align="center" src="https://zeruns.pt/api/common/download/logos/web/svg" alt="Web" height="30" width="30" />
@@ -19,7 +21,7 @@
 <br/>
 <br/>
 
-<h2 align="center">Skills</h2>
+<h2>Skills</h2>
 
 <table align="center">
     <tr>
@@ -132,8 +134,8 @@
         <td>Python</td>
         <td align="right">5</td>
     </tr>
-    <tr border="none">
-        <td border="none" colspan="4">
+    <tr>
+        <td colspan="4">
             <p></p>
             <p>
                 * Personal classification, between 1 and 10, where 10 means that I feel very comfortable with the language/framework and where 1 means that I have already worked with it but without any deepening.
