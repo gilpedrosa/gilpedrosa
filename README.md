@@ -1,12 +1,3 @@
-
-<header>
-<style>
-    a:hover {
-        text-decoration: none;
-    }
-</style>
-</header>
-
 <h1 align="center">👋 Hi There</h1>
 <h3 align="center">A passionate full-stack developer from Portugal</h3>
 
