@@ -8,13 +8,13 @@
 
 <p align="center">
     <a href="https://zeruns.com" target="blank">
-        <img align="center" src="https://zeruns.pt/api/common/download/logos/web/svg" alt="Web" height="30" width="30" />
+        <img align="center" src="readme/www.svg" alt="Web" height="30" width="30" />
     </a>
     <a href="https://gitlab.com/gilpedrosa" target="blank">
-        <img align="center" src="https://zeruns.pt/api/common/download/logos/gitlab/svg" alt="Gitlab" height="30" width="30" />
+        <img align="center" src="readme/gitlab.svg" alt="Gitlab" height="30" width="30" />
     </a>
     <a href="https://linkedin.com/in/gil-pedrosa" target="blank">
-        <img align="center" src="https://zeruns.pt/api/common/download/logos/linkedin/svg" alt="Linkedin" height="30" width="30" />
+        <img align="center" src="readme/linkedin.svg" alt="Linkedin" height="30" width="30" />
     </a>
 </p>
 
