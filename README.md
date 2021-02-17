@@ -16,5 +16,7 @@
 
 | Skill              | Class.\* |
 | ------------------ | -------- |
+
 | Frontend Developer            |
+
 | ReactJS            | 8        |
