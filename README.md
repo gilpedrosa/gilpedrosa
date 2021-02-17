@@ -134,8 +134,8 @@
     </tr>
     <tr border="none">
         <td border="none" colspan="4" font-style="italic">
-            <p></p>
-            <p align="center">
+            <p style="font-size: 8px;">dsfdsfsdfgfg</p>
+            <p>
                 <small>
                     * Personal classification, between 1 and 10, where 10 means that I feel very comfortable with the language/framework and where 1 means that I have already worked with it but without any deepening.
                 </small>
