@@ -6,6 +6,12 @@
 
 <h2>Contacts</h2>
 
+<style>
+    a:hover {
+        text-decoration: none;
+    }
+</style>
+
 <p align="center">
     <a href="https://zeruns.com" target="blank">
         <img align="center" src="readme/www.svg" alt="Web" height="30" width="30" />
