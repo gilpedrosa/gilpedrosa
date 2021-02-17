@@ -21,9 +21,9 @@
 
 <h2 align="center">Skills</h2>
 
-<table align="center" border="none">
-    <tr border="none">
-        <th border="none">Skill</th>
+<table align="center">
+    <tr>
+        <th>Skill</th>
         <th>Class.*</th>
         <th>Skill</th>
         <th>Class.*</th>
@@ -131,6 +131,12 @@
         <td align="right">5</td>
         <td>Python</td>
         <td align="right">5</td>
+    </tr>
+    <tr>
+        <th border="0" colspan="4">_\* Personal classification, between 1 and 10, where 10 means_ \
+_that I feel very comfortable with the language/framework and_ \
+_where 1 means that I have already worked with it but without_ \
+_any deepening._</th>
     </tr>
 </table>
 
