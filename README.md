@@ -40,7 +40,6 @@
                 src="readme/reactjs.svg"
                 alt="ReactJS"
                 width="20"
-                height="20"
             />
             ReactJS
         </td>
