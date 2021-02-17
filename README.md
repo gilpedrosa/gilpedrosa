@@ -132,11 +132,8 @@
         <td>Python</td>
         <td align="right">5</td>
     </tr>
-    <tr>
-        <th border="0" colspan="4">_\* Personal classification, between 1 and 10, where 10 means_ \
-_that I feel very comfortable with the language/framework and_ \
-_where 1 means that I have already worked with it but without_ \
-_any deepening._</th>
+    <tr border="0">
+        <td border="0" colspan="4">* Personal classification, between 1 and 10, where 10 means that I feel very comfortable with the language/framework and where 1 means that I have already worked with it but without any deepening.</th>
     </tr>
 </table>
 
