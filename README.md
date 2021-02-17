@@ -2,17 +2,24 @@
 <h3 align="center">A passionate full-stack developer from Portugal</h3>
 
 <br/>
+<br/>
 
 <p align="center">
-<a href="https://linkedin.com/in/gil-pedrosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gil-pedrosa" height="30" width="30" /></a>
+    <a href="https://zeruns.com" target="blank">
+        <img align="center" src="https://zeruns.pt/api/common/download/logos/web/svg" alt="Web" height="30" width="30" />
+    </a>
+    <a href="https://gitlab.com/gilpedrosa" target="blank">
+        <img align="center" src="https://zeruns.pt/api/common/download/logos/gitlab/svg" alt="Gitlab" height="30" width="30" />
+    </a>
+    <a href="https://linkedin.com/in/gil-pedrosa" target="blank">
+        <img align="center" src="https://zeruns.pt/api/common/download/logos/linkedin/svg" alt="Linkedin" height="30" width="30" />
+    </a>
 </p>
 
 <br/>
 <br/>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p>
-
-## Skills
+<h2 align="center">Skills</h2>
 
 <table>
     <tr>
@@ -44,9 +51,19 @@
         <td align="right">8</td>
     </tr>
     <tr>
-        <td>AngularJS</td>
+        <td>
+            <img
+                src="https://zeruns.pt/api/common/download/logos/owken/svg"
+                alt="AngularJS"
+            /> AngularJS
+        </td>
         <td align="right">8</td>
-        <td>ExpressJS</td>
+        <td>
+            <img
+                src="https://zeruns.pt/api/common/download/logos/owken/svg"
+                alt="ExpressJS"
+            /> ExpressJS
+        </td>
         <td align="right">8</td>
     </tr>
     <tr>
@@ -117,7 +134,7 @@
     </tr>
 </table>
 
-*\* Personal classification, between 1 and 10, where 10 means* \
-*that I feel very comfortable with the language/framework and* \
-*where 1 means that I have already worked with it but without* \
-*any deepening.*
+_\* Personal classification, between 1 and 10, where 10 means_ \
+_that I feel very comfortable with the language/framework and_ \
+_where 1 means that I have already worked with it but without_ \
+_any deepening._
