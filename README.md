@@ -37,7 +37,7 @@
     <tr>
         <td>
             <img
-                src="https://zeruns.pt/api/common/download/logos/owken/svg"
+                src="readme/reactjs.svg"
                 alt="ReactJS"
             />
             ReactJS
