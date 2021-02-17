@@ -23,7 +23,7 @@
     <th colspan='2'>Frontend Developer</th>
   </tr>
   <tr>
-  <td><img src="https://zeruns.pt/api/common/download/logos/android/svg" /></td>
+  <td><img src="https://zeruns.pt/api/common/download/logos/android/svg" alt="Android" /></td>
     <td>ReactJS</td>
     <td>8</td>
   </tr>
