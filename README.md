@@ -21,7 +21,7 @@
 
 <h2 align="center">Skills</h2>
 
-<table>
+<table align="center">
     <tr>
         <th>Skill</th>
         <th>Class.*</th>
