@@ -20,7 +20,7 @@
     <th>Class.\*</th>
   </tr>
   <tr>
-    <td colspan='2'>Frontend Developer</td>
+    <th colspan='2'>Frontend Developer</th>
   </tr>
   <tr>
     <td>ReactJS</td>
