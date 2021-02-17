@@ -14,70 +14,74 @@
 
 ## Skills
 
-<table style="border: 0;">
-    <tr style="border: 0;">
-        <td style="border: 0;">
-            <table>
-                <tr>
-                    <th colspan="2">Frontend Developer</th>
-                </tr>
-                <tr>
-                    <th>Skill</th>
-                    <th>Class.*</th>
-                </tr>
-                <tr>
-                    <td>
-                        <img
-                            src="https://zeruns.pt/api/common/download/logos/owken/svg"
-                            alt="Android"
-                        />
-                        ReactJS
-                    </td>
-                    <td>8</td>
-                </tr>
-                <tr>
-                    <td>AngularJS</td>
-                    <td>8</td>
-                </tr>
-                <tr>
-                    <td>Angular/TypeScript</td>
-                    <td>5</td>
-                </tr>
-                <tr>
-                    <td>VueJS</td>
-                    <td>4</td>
-                </tr>
-                <tr>
-                    <td>JQuery</td>
-                    <td>7</td>
-                </tr>
-                <tr>
-                    <td>HTML5</td>
-                    <td>8</td>
-                </tr>
-                <tr>
-                    <td>SCSS</td>
-                    <td>8</td>
-                </tr>
-                <tr>
-                    <td>Vanilla JavaScript</td>
-                    <td>8</td>
-                </tr>
-                <tr>
-                    <td>PHP</td>
-                    <td>3</td>
-                </tr>
-                <tr>
-                    <td>C#</td>
-                    <td>3</td>
-                </tr>
-                <tr>
-                    <td>JSON</td>
-                    <td>7</td>
-                </tr>
-            </table>
+<table>
+    <tr>
+        <th>Skill</th>
+        <th>Class.*</th>
+        <th>Skill</th>
+        <th>Class.*</th>
+    </tr>
+    <tr>
+        <th colspan="2">Frontend Developer</th>
+        <th colspan="2">Backend Developer</th>
+    </tr>
+    <tr>
+        <td>
+            <img
+                src="https://zeruns.pt/api/common/download/logos/owken/svg"
+                alt="Android"
+            />
+            ReactJS
         </td>
-        <td></td>
+        <td>8</td>
+        <td>
+            <img
+                src="https://zeruns.pt/api/common/download/logos/owken/svg"
+                alt="Android"
+            />
+            NodeJS
+        </td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>AngularJS</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>Angular/TypeScript</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>VueJS</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>JQuery</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>HTML5</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>SCSS</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>Vanilla JavaScript</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>PHP</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>C#</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>JSON</td>
+        <td>7</td>
     </tr>
 </table>
 
