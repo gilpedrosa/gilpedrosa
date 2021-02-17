@@ -29,7 +29,7 @@
         <td>
             <img
                 src="https://zeruns.pt/api/common/download/logos/owken/svg"
-                alt="Android"
+                alt="ReactJS"
             />
             ReactJS
         </td>
@@ -46,42 +46,61 @@
     <tr>
         <td>AngularJS</td>
         <td>8</td>
+        <td>ExpressJS</td>
+        <td>8</td>
     </tr>
     <tr>
         <td>Angular/TypeScript</td>
         <td>5</td>
+        <td>MongoDB</td>
+        <td>7</td>
     </tr>
     <tr>
         <td>VueJS</td>
+        <td>4</td>
+        <td>MariaDB</td>
         <td>4</td>
     </tr>
     <tr>
         <td>JQuery</td>
         <td>7</td>
+        <td>Nginx</td>
+        <td>5</td>
     </tr>
     <tr>
         <td>HTML5</td>
         <td>8</td>
+        <td>Perl</td>
+        <td>6</td>
     </tr>
     <tr>
         <td>SCSS</td>
         <td>8</td>
+        <td colspan="2"></td>
     </tr>
     <tr>
         <td>Vanilla JavaScript</td>
+        <td>8</td>
+        <td>ExpressJS</td>
         <td>8</td>
     </tr>
     <tr>
         <td>PHP</td>
         <td>3</td>
+        <td>ExpressJS</td>
+        <td>8</td>
     </tr>
     <tr>
         <td>C#</td>
         <td>3</td>
+        <td>ExpressJS</td>
+        <td>8</td>
     </tr>
     <tr>
         <td>JSON</td>
         <td>7</td>
+        <td>ExpressJS</td>
+        <td>8</td>
     </tr>
 </table>
 
