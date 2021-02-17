@@ -14,6 +14,7 @@
     <a href="https://gitlab.com/gilpedrosa" target="blank">
         <img align="center" src="readme/gitlab.svg" alt="Gitlab" height="30" width="30" />
     </a>
+    &nbsp;
     <a href="https://linkedin.com/in/gil-pedrosa" target="blank">
         <img align="center" src="readme/linkedin.svg" alt="Linkedin" height="30" width="30" />
     </a>
