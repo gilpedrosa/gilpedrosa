@@ -11,6 +11,7 @@
         <img align="center" src="readme/www.svg" alt="Web" height="30" width="30" />
     </a>
     <label style="width: 10px"></label>
+    <label width="20px"></label>
     <a href="https://gitlab.com/gilpedrosa" target="blank">
         <img align="center" src="readme/gitlab.svg" alt="Gitlab" height="30" width="30" />
     </a>
