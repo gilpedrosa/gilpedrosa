@@ -33,7 +33,7 @@
             />
             ReactJS
         </td>
-        <td>8</td>
+        <td align="right">8</td>
         <td>
             <img
                 src="https://zeruns.pt/api/common/download/logos/owken/svg"
@@ -41,63 +41,63 @@
             />
             NodeJS
         </td>
-        <td>8</td>
+        <td align="right">8</td>
     </tr>
     <tr>
         <td>AngularJS</td>
-        <td>8</td>
+        <td align="right">8</td>
         <td>ExpressJS</td>
-        <td style="text-align: left;">8</td>
+        <td align="right">8</td>
     </tr>
     <tr>
         <td>Angular/TypeScript</td>
-        <td>5</td>
+        <td align="right">5</td>
         <td>MongoDB</td>
         <td align="right">7</td>
     </tr>
     <tr>
         <td>VueJS</td>
-        <td>4</td>
+        <td align="right">4</td>
         <td>MariaDB</td>
-        <td>4</td>
+        <td align="right">4</td>
     </tr>
     <tr>
         <td>JQuery</td>
-        <td>7</td>
+        <td align="right">7</td>
         <td>Nginx</td>
-        <td>5</td>
+        <td align="right">5</td>
     </tr>
     <tr>
         <td>HTML5</td>
-        <td>8</td>
+        <td align="right">8</td>
         <td>Perl</td>
-        <td>6</td>
+        <td align="right">6</td>
     </tr>
     <tr>
         <td>SCSS</td>
-        <td>8</td>
+        <td align="right">8</td>
         <td colspan="2"></td>
     </tr>
     <tr>
         <td>Vanilla JavaScript</td>
-        <td>8</td>
+        <td align="right">8</td>
         <th colspan="2">Mobile Developer</th>
     </tr>
     <tr>
         <td>PHP</td>
-        <td>3</td>
+        <td align="right">3</td>
         <td>Flutter</td>
-        <td>7</td>
+        <td align="right">7</td>
     </tr>
     <tr>
         <td>C#</td>
-        <td>3</td>
+        <td align="right">3</td>
         <td>Java</td>
-        <td>7</td>
+        <td align="right">7</td>
     </tr>
     <tr>
         <td>JSON</td>
-        <td>7</td>
+        <td align="right">7</td>
         <td colspan="2"></td>
     </tr>
     <tr>
@@ -107,13 +107,13 @@
     <tr>
         <th colspan="2">Software Developer</th>
         <td>C/C++</td>
-        <td>6</td>
+        <td align="right">6</td>
     </tr>
     <tr>
         <td>Visual Basic</td>
-        <td>5</td>
+        <td align="right">5</td>
         <td>Python</td>
-        <td>5</td>
+        <td align="right">5</td>
     </tr>
 </table>
 
