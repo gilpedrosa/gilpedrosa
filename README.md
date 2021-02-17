@@ -142,11 +142,3 @@
         </th>
     </tr>
 </table>
-
-<p align="center"><small>
-_\* Personal classification, between 1 and 10, where 10 means_ \
-_that I feel very comfortable with the language/framework and_ \
-_where 1 means that I have already worked with it but without_ \
-_any deepening._
-</small>
-</p>
