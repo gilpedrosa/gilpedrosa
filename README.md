@@ -14,9 +14,9 @@
 
 ## Skills
 
-<table style="border: none">
-    <tr style="border: none">
-        <td style="border: none">
+<table style="border: 0;">
+    <tr style="border: 0;">
+        <td style="border: 0;">
             <table>
                 <tr>
                     <th colspan="2">Frontend Developer</th>
