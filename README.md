@@ -47,7 +47,7 @@
         <td>AngularJS</td>
         <td>8</td>
         <td>ExpressJS</td>
-        <td>8</td>
+        <td style="text-align: left;">8</td>
     </tr>
     <tr>
         <td>Angular/TypeScript</td>
