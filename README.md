@@ -46,8 +46,9 @@
         <td align="right">8</td>
         <td>
             <img
-                src="https://zeruns.pt/api/common/download/logos/owken/svg"
-                alt="Android"
+                src="readme/nodejs.svg"
+                alt="NodeJS"
+                width="20"
             />
             NodeJS
         </td>
@@ -56,67 +57,145 @@
     <tr>
         <td>
             <img
-                src="https://zeruns.pt/api/common/download/logos/owken/svg"
+                src="readme/angularjs.svg"
                 alt="AngularJS"
-            /> AngularJS
+                width="20"
+            />
+            AngularJS
         </td>
         <td align="right">8</td>
         <td>
             <img
-                src="https://zeruns.pt/api/common/download/logos/owken/svg"
+                src="readme/expressjs.svg"
                 alt="ExpressJS"
+                width="20"
             /> ExpressJS
         </td>
         <td align="right">8</td>
     </tr>
     <tr>
-        <td>Angular/TypeScript</td>
+        <td>
+            <img
+                src="readme/typescript.svg"
+                alt="Angular/TypeScript"
+                width="20"
+            /> Angular/TypeScript</td>
         <td align="right">5</td>
-        <td>MongoDB</td>
+        <td>
+            <img
+                src="readme/mongodb.svg"
+                alt="MongoDB"
+                width="20"
+            /> MongoDB</td>
         <td align="right">7</td>
     </tr>
     <tr>
-        <td>VueJS</td>
+        <td>
+            <img
+                src="readme/vuejs.svg"
+                alt="VueJS"
+                width="20"
+            /> VueJS</td>
         <td align="right">4</td>
-        <td>MariaDB</td>
+        <td>
+            <img
+                src="readme/mariadb.svg"
+                alt="MariaDB"
+                width="20"
+            /> MariaDB</td>
         <td align="right">4</td>
     </tr>
     <tr>
-        <td>JQuery</td>
+        <td>
+            <img
+                src="readme/jquery.svg"
+                alt="JQuery"
+                width="20"
+            /> JQuery</td>
         <td align="right">7</td>
-        <td>Nginx</td>
+        <td>
+            <img
+                src="readme/nginx.svg"
+                alt="Nginx"
+                width="20"
+            /> Nginx</td>
         <td align="right">5</td>
     </tr>
     <tr>
-        <td>HTML5</td>
+        <td>
+            <img
+                src="readme/html5.svg"
+                alt="HTML5"
+                width="20"
+            /> HTML5</td>
         <td align="right">8</td>
-        <td>Perl</td>
+        <td>
+            <img
+                src="readme/perl.svg"
+                alt="Perl"
+                width="20"
+            /> Perl</td>
         <td align="right">6</td>
     </tr>
     <tr>
-        <td>SCSS</td>
+        <td>
+            <img
+                src="readme/sass.svg"
+                alt="SCSS"
+                width="20"
+            /> SCSS</td>
         <td align="right">8</td>
         <td colspan="2"></td>
     </tr>
     <tr>
-        <td>Vanilla JavaScript</td>
+        <td>
+            <img
+                src="readme/javascript.svg"
+                alt="Vanilla JavaScript"
+                width="20"
+            /> Vanilla JavaScript</td>
         <td align="right">8</td>
         <th colspan="2">Mobile Developer</th>
     </tr>
     <tr>
-        <td>PHP</td>
+        <td>
+            <img
+                src="readme/php.svg"
+                alt="PHP"
+                width="20"
+            /> PHP</td>
         <td align="right">3</td>
-        <td>Flutter</td>
+        <td>
+            <img
+                src="readme/flutter.svg"
+                alt="Flutter"
+                width="20"
+            /> Flutter</td>
         <td align="right">7</td>
     </tr>
     <tr>
-        <td>C#</td>
+        <td>
+            <img
+                src="readme/csharp.svg"
+                alt="C#"
+                width="20"
+            /> C#</td>
         <td align="right">3</td>
-        <td>Java</td>
+        <td>
+            <img
+                src="readme/java.svg"
+                alt="Java"
+                width="20"
+            /> Java</td>
         <td align="right">7</td>
     </tr>
     <tr>
-        <td>JSON</td>
+        <td>
+            <img
+                src="readme/json.svg"
+                alt="JSON"
+                width="20"
+            /> JSON</td>
         <td align="right">7</td>
         <td colspan="2"></td>
     </tr>
@@ -126,13 +205,28 @@
     </tr>
     <tr>
         <th colspan="2">Software Developer</th>
-        <td>C/C++</td>
+        <td>
+            <img
+                src="readme/cplusplus.svg"
+                alt="C/C++"
+                width="20"
+            /> C/C++</td>
         <td align="right">6</td>
     </tr>
     <tr>
-        <td>Visual Basic</td>
+        <td>
+            <img
+                src="readme/visualbasic.svg"
+                alt="Visual Basic"
+                width="20"
+            /> Visual Basic</td>
         <td align="right">5</td>
-        <td>Python</td>
+        <td>
+            <img
+                src="readme/python.svg"
+                alt="Python"
+                width="20"
+            /> Python</td>
         <td align="right">5</td>
     </tr>
     <tr>
