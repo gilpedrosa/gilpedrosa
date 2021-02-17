@@ -14,9 +14,28 @@
 
 ## Skills
 
-| Skill              | Class.\* |
-| ------------------ | -------- |
+<table>
+  <tr>
+    <th>Skill</th>
+    <th>Class.\*</th>
+  </tr>
+  <tr>
+    <td colspan='2'>Frontend Developer</td>
+  </tr>
+  <tr>
+    <td>ReactJS</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td style='background: grey'>AngularJS</td>
+    <td style='background: grey'>
+      8
+    </td>
+  </tr>
+</table>
 
-| Frontend Developer            |
-
-| ReactJS            | 8        |
+| Skill                      | Class.\* |
+| -------------------------- | -------- |
+| Frontend Developer         |
+| -------------------------- |
+| ReactJS                    | 8        |
