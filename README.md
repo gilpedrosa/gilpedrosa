@@ -352,11 +352,6 @@
         width="30"
     />
     <img
-        src="readme/postman.svg"
-        alt="Postman"
-        width="30"
-    />
-    <img
         src="readme/firefox.svg"
         alt="Firefox"
         width="30"
