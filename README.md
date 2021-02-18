@@ -305,83 +305,85 @@
 
 <h2>Favourite tools</h2>
 
-<img
-    src="readme/centos8.svg"
-    alt="Linux Centos8"
-    width="30"
-/>
-<img
-    src="readme/mint.svg"
-    alt="Linux Mint"
-    width="30"
-/>
-<img
-    src="readme/visualbasic.svg"
-    alt="Visual Studio Code"
-    width="30"
-/>
-<img
-    src="readme/android.svg"
-    alt="Android Studio"
-    width="30"
-/>
-<img
-    src="readme/arduino.svg"
-    alt="Arduino IDE"
-    width="30"
-/>
-<img
-    src="readme/bash.svg"
-    alt="Terminal"
-    width="30"
-/>
-<img
-    src="readme/gitlab.svg"
-    alt="Gitlab"
-    width="30"
-/>
-<img
-    src="readme/docker.svg"
-    alt="Docker"
-    width="30"
-/>
-<img
-    src="readme/kubernetes.svg"
-    alt="Kubernetes"
-    width="30"
-/>
-<img
-    src="readme/postman.svg"
-    alt="Postman"
-    width="30"
-/>
-<img
-    src="readme/firefox.svg"
-    alt="Firefox"
-    width="30"
-/>
-<img
-    src="readme/trello.svg"
-    alt="Trello"
-    width="30"
-/>
-<img
-    src="readme/filezilla.svg"
-    alt="Filezilla"
-    width="30"
-/>
-<img
-    src="readme/inkscape.svg"
-    alt="Inkscape"
-    width="30"
-/>
-<img
-    src="readme/nosql.svg"
-    alt="NoSQLBooster"
-    width="30"
-/>
-<img
-    src="readme/teamviewer.svg"
-    alt="Teamviewer"
-    width="30"
-/>
+<p align="center">
+    <img
+        src="readme/centos8.svg"
+        alt="Linux Centos8"
+        width="30"
+    />
+    <img
+        src="readme/mint.svg"
+        alt="Linux Mint"
+        width="30"
+    />
+    <img
+        src="readme/visualbasic.svg"
+        alt="Visual Studio Code"
+        width="30"
+    />
+    <img
+        src="readme/android.svg"
+        alt="Android Studio"
+        width="30"
+    />
+    <img
+        src="readme/arduino.svg"
+        alt="Arduino IDE"
+        width="30"
+    />
+    <img
+        src="readme/bash.svg"
+        alt="Terminal"
+        width="30"
+    />
+    <img
+        src="readme/gitlab.svg"
+        alt="Gitlab"
+        width="30"
+    />
+    <img
+        src="readme/docker.svg"
+        alt="Docker"
+        width="30"
+    />
+    <img
+        src="readme/kubernetes.svg"
+        alt="Kubernetes"
+        width="30"
+    />
+    <img
+        src="readme/postman.svg"
+        alt="Postman"
+        width="30"
+    />
+    <img
+        src="readme/firefox.svg"
+        alt="Firefox"
+        width="30"
+    />
+    <img
+        src="readme/trello.svg"
+        alt="Trello"
+        width="30"
+    />
+    <img
+        src="readme/filezilla.svg"
+        alt="Filezilla"
+        width="30"
+    />
+    <img
+        src="readme/inkscape.svg"
+        alt="Inkscape"
+        width="30"
+    />
+    <img
+        src="readme/nosql.svg"
+        alt="NoSQLBooster"
+        width="30"
+    />
+    <img
+        src="readme/teamviewer.svg"
+        alt="Teamviewer"
+        width="30"
+    />
+</p>
