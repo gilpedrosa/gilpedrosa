@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full-stack developer from Portugal</h3>
 
 <br/>
-<br/>
 
 <h2>Contacts</h2>
 
@@ -20,7 +19,6 @@
     </a>
 </p>
 
-<br/>
 <br/>
 
 <h2>Skills</h2>
@@ -301,7 +299,6 @@
 </table>
 
 <br/>
-<br/>
 
 <h2>Favourite tools</h2>
 
@@ -311,71 +308,85 @@
         alt="Linux Centos8"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/mint.svg"
         alt="Linux Mint"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/visualbasic.svg"
         alt="Visual Studio Code"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/android.svg"
         alt="Android Studio"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/arduino.svg"
         alt="Arduino IDE"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/bash.svg"
         alt="Terminal"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/gitlab.svg"
         alt="Gitlab"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/docker.svg"
         alt="Docker"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/kubernetes.svg"
         alt="Kubernetes"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/firefox.svg"
         alt="Firefox"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/trello.svg"
         alt="Trello"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/filezilla.svg"
         alt="Filezilla"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/inkscape.svg"
         alt="Inkscape"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/nosql.svg"
         alt="NoSQLBooster"
         width="30"
     />
+    &nbsp;
     <img
         src="readme/teamviewer.svg"
         alt="Teamviewer"
