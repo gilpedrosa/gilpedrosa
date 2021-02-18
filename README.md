@@ -299,3 +299,19 @@
         </th>
     </tr>
 </table>
+
+<br/>
+<br/>
+
+<h2>Favourite tools</h2>
+
+<img
+    src="readme/gitlab.svg"
+    alt="Gitlab"
+    width="15"
+/>
+<img
+    src="readme/gitlab.svg"
+    alt="Gitlab"
+    width="15"
+/>
