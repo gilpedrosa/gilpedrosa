@@ -41,7 +41,7 @@
             <img
                 src="readme/reactjs.svg"
                 alt="ReactJS"
-                width="20"
+                width="15"
             />
             &nbsp;
             ReactJS
@@ -51,7 +51,7 @@
             <img
                 src="readme/nodejs.svg"
                 alt="NodeJS"
-                width="20"
+                width="15"
             />
             NodeJS
         </td>
@@ -62,7 +62,7 @@
             <img
                 src="readme/angularjs.svg"
                 alt="AngularJS"
-                width="20"
+                width="15"
             />
             AngularJS
         </td>
@@ -71,7 +71,7 @@
             <img
                 src="readme/expressjs.svg"
                 alt="ExpressJS"
-                width="20"
+                width="15"
             /> ExpressJS
         </td>
         <td align="right">8</td>
@@ -81,14 +81,14 @@
             <img
                 src="readme/typescript.svg"
                 alt="Angular/TypeScript"
-                width="20"
+                width="15"
             /> Angular/TypeScript</td>
         <td align="right">5</td>
         <td>
             <img
                 src="readme/mongodb.svg"
                 alt="MongoDB"
-                width="20"
+                width="15"
             /> MongoDB</td>
         <td align="right">7</td>
     </tr>
@@ -97,14 +97,14 @@
             <img
                 src="readme/vuejs.svg"
                 alt="VueJS"
-                width="20"
+                width="15"
             /> VueJS</td>
         <td align="right">4</td>
         <td>
             <img
                 src="readme/mariadb.svg"
                 alt="MariaDB"
-                width="20"
+                width="15"
             /> MariaDB</td>
         <td align="right">4</td>
     </tr>
@@ -113,14 +113,14 @@
             <img
                 src="readme/jquery.svg"
                 alt="JQuery"
-                width="20"
+                width="15"
             /> JQuery</td>
         <td align="right">7</td>
         <td>
             <img
                 src="readme/nginx.svg"
                 alt="Nginx"
-                width="20"
+                width="15"
             /> Nginx</td>
         <td align="right">5</td>
     </tr>
@@ -129,14 +129,14 @@
             <img
                 src="readme/html5.svg"
                 alt="HTML5"
-                width="20"
+                width="15"
             /> HTML5</td>
         <td align="right">8</td>
         <td>
             <img
                 src="readme/perl.svg"
                 alt="Perl"
-                width="20"
+                width="15"
             /> Perl</td>
         <td align="right">6</td>
     </tr>
@@ -145,7 +145,7 @@
             <img
                 src="readme/sass.svg"
                 alt="SCSS"
-                width="20"
+                width="15"
             /> SCSS</td>
         <td align="right">8</td>
         <td colspan="2"></td>
@@ -155,7 +155,7 @@
             <img
                 src="readme/javascript.svg"
                 alt="Vanilla JavaScript"
-                width="20"
+                width="15"
             /> Vanilla JavaScript</td>
         <td align="right">8</td>
         <th colspan="2">Mobile Developer</th>
@@ -165,14 +165,14 @@
             <img
                 src="readme/php.svg"
                 alt="PHP"
-                width="20"
+                width="15"
             /> PHP</td>
         <td align="right">3</td>
         <td>
             <img
                 src="readme/flutter.svg"
                 alt="Flutter"
-                width="20"
+                width="15"
             /> Flutter</td>
         <td align="right">7</td>
     </tr>
@@ -181,14 +181,14 @@
             <img
                 src="readme/csharp.svg"
                 alt="C#"
-                width="20"
+                width="15"
             /> C#</td>
         <td align="right">3</td>
         <td>
             <img
                 src="readme/java.svg"
                 alt="Java"
-                width="20"
+                width="15"
             /> Java</td>
         <td align="right">7</td>
     </tr>
@@ -197,7 +197,7 @@
             <img
                 src="readme/json.svg"
                 alt="JSON"
-                width="20"
+                width="15"
             /> JSON</td>
         <td align="right">7</td>
         <td colspan="2"></td>
@@ -212,7 +212,7 @@
             <img
                 src="readme/cplusplus.svg"
                 alt="C/C++"
-                width="20"
+                width="15"
             /> C/C++</td>
         <td align="right">6</td>
     </tr>
@@ -221,14 +221,14 @@
             <img
                 src="readme/visualbasic.svg"
                 alt="Visual Basic"
-                width="20"
+                width="15"
             /> Visual Basic</td>
         <td align="right">5</td>
         <td>
             <img
                 src="readme/python.svg"
                 alt="Python"
-                width="20"
+                width="15"
             /> Python</td>
         <td align="right">5</td>
     </tr>
