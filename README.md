@@ -308,80 +308,80 @@
 <img
     src="readme/centos8.svg"
     alt="Linux Centos8"
-    width="20"
+    width="30"
 />
 <img
     src="readme/mint.svg"
     alt="Linux Mint"
-    width="20"
+    width="30"
 />
 <img
     src="readme/visualbasic.svg"
     alt="Visual Studio Code"
-    width="20"
+    width="30"
 />
 <img
     src="readme/android.svg"
     alt="Android Studio"
-    width="20"
+    width="30"
 />
 <img
     src="readme/arduino.svg"
     alt="Arduino IDE"
-    width="20"
+    width="30"
 />
 <img
     src="readme/bash.svg"
     alt="Terminal"
-    width="20"
+    width="30"
 />
 <img
     src="readme/gitlab.svg"
     alt="Gitlab"
-    width="20"
+    width="30"
 />
 <img
     src="readme/docker.svg"
     alt="Docker"
-    width="20"
+    width="30"
 />
 <img
     src="readme/kubernetes.svg"
     alt="Kubernetes"
-    width="20"
+    width="30"
 />
 <img
     src="readme/postman.svg"
     alt="Postman"
-    width="20"
+    width="30"
 />
 <img
     src="readme/firefox.svg"
     alt="Firefox"
-    width="20"
+    width="30"
 />
 <img
     src="readme/trello.svg"
     alt="Trello"
-    width="20"
+    width="30"
 />
 <img
     src="readme/filezilla.svg"
     alt="Filezilla"
-    width="20"
+    width="30"
 />
 <img
     src="readme/inkscape.svg"
     alt="Inkscape"
-    width="20"
+    width="30"
 />
 <img
     src="readme/nosql.svg"
     alt="NoSQLBooster"
-    width="20"
+    width="30"
 />
 <img
     src="readme/teamviewer.svg"
     alt="Teamviewer"
-    width="20"
+    width="30"
 />
