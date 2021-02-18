@@ -53,6 +53,7 @@
                 alt="NodeJS"
                 width="15"
             />
+            &ensp;
             NodeJS
         </td>
         <td align="right">8</td>
@@ -64,6 +65,7 @@
                 alt="AngularJS"
                 width="15"
             />
+            &emsp;
             AngularJS
         </td>
         <td align="right">8</td>
