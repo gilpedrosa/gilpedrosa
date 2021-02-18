@@ -43,6 +43,7 @@
                 alt="ReactJS"
                 width="20"
             />
+            &nbsp;
             ReactJS
         </td>
         <td align="right">8</td>
