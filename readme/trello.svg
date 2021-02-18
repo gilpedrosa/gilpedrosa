@@ -8,18 +8,15 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   id="Capa_1"
    x="0px"
    y="0px"
-   viewBox="0 0 512 512"
-   style="enable-background:new 0 0 512 512;"
+   viewBox="0 0 1000 1000"
+   enable-background="new 0 0 1000 1000"
    xml:space="preserve"
+   id="svg10"
    sodipodi:docname="trello.svg"
-   inkscape:version="1.0.1 (1.0.1+r74)"><metadata
-   id="metadata45"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs43" /><sodipodi:namedview
+   inkscape:version="1.0.1 (1.0.1+r74)"><defs
+   id="defs14" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -30,73 +27,27 @@
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
    inkscape:window-height="1029"
-   id="namedview41"
+   id="namedview12"
    showgrid="false"
-   inkscape:zoom="1.6738281"
-   inkscape:cx="256.59743"
-   inkscape:cy="256"
+   inkscape:pagecheckerboard="true"
+   inkscape:zoom="0.857"
+   inkscape:cx="501.16686"
+   inkscape:cy="500"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Capa_1" />
-<path
-   style="fill:#60be86;fill-opacity:1"
-   d="M448,0H64C28.672,0,0,28.672,0,64v384c0,35.328,28.672,64,64,64h384c35.36,0,64-28.672,64-64V64  C512,28.64,483.328,0,448,0z"
-   id="path2" />
+   inkscape:current-layer="svg10" />
+<metadata
+   id="metadata2"> Svg Vector Icons : http://www.onlinewebfonts.com/icon <rdf:RDF><cc:Work
+     rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
 <g
-   id="g8">
-	<path
-   style="fill:#ECEFF1;"
-   d="M224,384c0,17.664-14.336,32-32,32H96c-17.696,0-32-14.336-32-32V96c0-17.696,14.304-32,32-32h96   c17.664,0,32,14.304,32,32V384z"
-   id="path4" />
-	<path
-   style="fill:#ECEFF1;"
-   d="M448,256c0,17.664-14.336,32-32,32h-96c-17.696,0-32-14.336-32-32V96c0-17.696,14.304-32,32-32h96   c17.664,0,32,14.304,32,32V256z"
-   id="path6" />
-</g>
-<g
-   id="g10">
-</g>
-<g
-   id="g12">
-</g>
-<g
-   id="g14">
-</g>
-<g
-   id="g16">
-</g>
-<g
-   id="g18">
-</g>
-<g
-   id="g20">
-</g>
-<g
-   id="g22">
-</g>
-<g
-   id="g24">
-</g>
-<g
-   id="g26">
-</g>
-<g
-   id="g28">
-</g>
-<g
-   id="g30">
-</g>
-<g
-   id="g32">
-</g>
-<g
-   id="g34">
-</g>
-<g
-   id="g36">
-</g>
-<g
-   id="g38">
-</g>
+   id="g8"
+   style="fill:#60be86;fill-opacity:1"><g
+     transform="matrix(1 0 0 -1 0 1536)"
+     id="g6"
+     style="fill:#60be86;fill-opacity:1"><path
+       d="M459.2,750.2v653.3c0,6-1.9,10.8-5.7,14.7c-3.8,3.8-8.7,5.7-14.7,5.7H132.5c-6,0-10.8-1.9-14.7-5.7s-5.7-8.7-5.7-14.7V750.2c0-6,1.9-10.8,5.7-14.7c3.8-3.8,8.7-5.7,14.7-5.7h306.2c6,0,10.8,1.9,14.7,5.7C457.3,739.3,459.2,744.2,459.2,750.2z M887.9,995.2v408.3c0,6-1.9,10.8-5.7,14.7c-3.8,3.8-8.7,5.7-14.7,5.7H561.3c-6,0-10.8-1.9-14.7-5.7c-3.8-3.8-5.7-8.7-5.7-14.7V995.2c0-6,1.9-10.8,5.7-14.7c3.8-3.8,8.7-5.7,14.7-5.7h306.3c6,0,10.8,1.9,14.7,5.7C886,984.3,887.9,989.2,887.9,995.2z M990,1485.2V586.8c0-11.1-4-20.6-12.1-28.7c-8.1-8.1-17.7-12.1-28.7-12.1H50.8c-11.1,0-20.6,4-28.7,12.1S10,575.8,10,586.8v898.3c0,11.1,4,20.6,12.1,28.7c8.1,8.1,17.7,12.1,28.7,12.1h898.3c11.1,0,20.6-4,28.7-12.1C986,1505.8,990,1496.2,990,1485.2z"
+       id="path4"
+       style="fill:#60be86;fill-opacity:1" /></g></g>
 </svg>

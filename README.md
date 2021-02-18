@@ -366,8 +366,18 @@
     width="20"
 />
 <img
+    src="readme/filezilla.svg"
+    alt="Filezilla"
+    width="20"
+/>
+<img
     src="readme/inkscape.svg"
     alt="Inkscape"
+    width="20"
+/>
+<img
+    src="readme/nosql.svg"
+    alt="NoSQLBooster"
     width="20"
 />
 <img
