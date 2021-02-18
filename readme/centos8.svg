@@ -5,77 +5,47 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 256 256"
    version="1.1"
-   preserveAspectRatio="xMidYMid"
-   id="svg18"
-   sodipodi:docname="14938850591536233206.svg"
-   inkscape:version="1.0.1 (1.0.1+r74)">
-  <metadata
-     id="metadata24">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs22" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1029"
-     id="namedview20"
-     showgrid="false"
-     inkscape:zoom="2.3671504"
-     inkscape:cx="73.052197"
-     inkscape:cy="137.3418"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg18" />
-  <a
-     xlink:href="http://freeicons.io/"
-     id="a2">Download Free SVG, PNG, Ai, PSD, EPS and Vector File.  Visit freeicons.io</a>
-  <path
-     d="m 107.86045,118.64117 9.2282,9.17674 -9.2282,9.17497 H 42.901098 v 30.5714 L 3.2860264,127.81791 42.901098,88.738682 v 29.902488 h 64.959352 v 0 z m 28.554,-78.06797 h 78.92851 v 78.93028 h -78.92851 v -78.93028 0 z"
-     fill="#932279"
-     id="path4"
-     style="fill:#60be86;fill-opacity:1" />
-  <path
-     d="m 137.275,107.86045 -9.17497,9.2282 -9.17497,-9.2282 V 42.901098 H 88.351882 L 128.10003,3.2860264 167.17748,42.901098 H 137.275 v 64.959352 0 z m -0.86055,28.554 h 78.92851 v 78.93029 h -78.92851 v -78.93029 0 z"
-     fill="#efa724"
-     id="path6"
-     style="fill:#60be86;fill-opacity:1" />
-  <path
-     d="m 148.05749,137.275 -9.22997,-9.17497 9.22997,-9.17497 h 64.95758 V 88.351882 l 39.61684,39.748148 -39.61684,39.07745 V 137.275 h -64.95758 v 0 z M 40.5732,136.41445 h 78.92851 v 78.93029 H 40.5732 v -78.93029 0 z"
-     fill="#262577"
-     id="path8"
-     style="fill:#60be86;fill-opacity:1" />
-  <path
-     d="m 118.64117,148.05749 9.17497,-9.22997 9.17674,9.22997 v 64.95935 h 30.5714 l -39.74814,39.61507 -39.075684,-39.61507 h 29.900714 v -64.95935 0 z M 40.5732,40.5732 h 78.92851 v 78.93028 H 40.5732 v -78.93028 0 z"
-     fill="#9ccd2a"
-     id="path10"
-     style="fill:#60be86;fill-opacity:1" />
-  <path
-     d="M 37.753818,37.753818 H 122.32109 V 122.32109 H 37.753818 v -84.567272 0 0 z m 5.63699,78.930282 H 116.68233 V 43.392582 H 43.390808 v 73.291518 0 z M 133.59685,37.753818 h 84.56727 v 84.567272 h -84.56727 v -84.567272 0 z m 5.63699,78.930282 h 73.29152 V 43.392582 h -73.29152 v 73.291518 0 z m -5.63699,16.91275 h 84.56727 v 84.56904 h -84.56727 v -84.56904 0 z m 5.63699,78.92851 h 73.29152 v -73.29152 h -73.29152 v 73.29152 0 z M 37.753818,133.59685 h 84.567272 v 84.56904 H 37.753818 v -84.56904 0 z m 5.63699,78.92851 H 116.68233 V 139.23384 H 43.390808 v 73.29152 0 0 z"
-     fill="#ffffff"
-     id="path12" />
-  <path
-     d="M 60.188223,187.75773 0.3885744,127.95808 60.186448,68.160208 119.9861,127.95808 60.188223,187.75773 v 0 0 0 z M 8.362334,127.95808 60.188223,179.78397 112.01234,127.95808 60.186448,76.133967 8.362334,127.95808 v 0 z M 127.95808,119.9861 68.160208,60.188223 127.95808,0.3885744 187.75596,60.188223 127.95808,119.9861 v 0 z M 76.133967,60.188223 127.95808,112.01234 179.78397,60.188223 127.95808,8.362334 76.133967,60.188223 v 0 z m 119.595753,127.569507 -59.79788,-59.79965 59.79788,-59.797872 59.79787,59.797872 -59.79787,59.79965 v 0 z m -51.82589,-59.79965 51.82589,51.82589 51.82411,-51.82589 -51.82411,-51.824113 -51.82589,51.824113 v 0 z m -15.94575,127.56951 -59.797872,-59.79787 59.797872,-59.79788 59.79788,59.79788 -59.79788,59.79787 v 0 z m -51.824113,-59.79787 51.824113,51.82411 51.82589,-51.82411 -51.82589,-51.82412 -51.824113,51.82412 v 0 0 0 z"
-     fill="#ffffff"
-     id="path14" />
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="svg9"
+   sodipodi:docname="centos8.svg"
+   inkscape:version="1.0.1 (1.0.1+r74)"><defs
+   id="defs13" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1029"
+   id="namedview11"
+   showgrid="false"
+   inkscape:zoom="0.4285"
+   inkscape:cx="370.06715"
+   inkscape:cy="693.09439"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg9" />
+<metadata
+   id="metadata2"> Svg Vector Icons : http://www.onlinewebfonts.com/icon <rdf:RDF><cc:Work
+     rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata>
+<g
+   id="g7"
+   style="fill:#60be86;fill-opacity:1"><g
+     id="_x33_e91140ac1bfb9903b91c1b0ca099d6d"
+     style="fill:#60be86;fill-opacity:1"><path
+       d="M220.8,265.2l-78.1,78.1V141.7h201.5l-79.4,79.4l-6,6l6,6l184.4,184.4v30.2h-33.9L232.8,265.2l-6.1-6.1L220.8,265.2z M449.2,393.5V141.7h-80.9l-85.4,85.4L449.2,393.5z M226.7,283.3l-84.1,84.1v80.3h248.4L226.7,283.3z M552,392.3l165.2-165.2l-86.5-86.6H552V392.3z M741.3,227.1l-6.1,6L552,416.5v31.2h32.1l182.8-182.9l6-6l6.1,6l80,80.1V140.6H654.6l80.6,80.6L741.3,227.1z M466.2,124.6v8.6v277.4l33.8,33.8l35-35V132.1v-8.6h8.6h70L500,9.9L385.4,124.6h72.2H466.2z M608.2,447.7H859v-78.6l-86.1-86.2L608.2,447.7z M443.9,500.5l-35.6-35.6H134.1h-8.4v-8.6v-71.9L10,500.1l115.6,115.7v-74.2v-8.4h8.4h277.2L443.9,500.5z M552,609.9v247.3h80.2l83.5-83.6L552,609.9z M227.1,717.3l167.1-167.1H142.7v82.7L227.1,717.3z M772.9,717.3l86.1-86.2v-81H605.9L772.9,717.3z M876.2,613.9L990,500.1L876.2,386.2v70.1v8.6h-8.6H591.1l-35.2,35.2l33,33h278.7h8.6v8.4L876.2,613.9L876.2,613.9z M772.9,741.3l-6-6L581.7,550.1H552v35.7l181.8,181.8l6,6l-6,6.1l-77.4,77.5H859v-202l-80,80.1L772.9,741.3z M535,874.3v-8.6V592.9l-35.6-35.6l-32.6,32.6v275.8v8.6h-8.6h-74.7l115.9,115.8l115.8-115.8h-71.6H535z M258.8,773.7l6-6l184.9-184.9v-32.6h-31.4L233.1,735.3l-6,6l-6-6l-78.5-78.5v200.4h199.6l-77.4-77.5L258.8,773.7z M449.7,606.9L282.9,773.7l83.5,83.6h83.3V606.9z"
+       id="path4"
+       style="fill:#60be86;fill-opacity:1" /></g></g>
 </svg>
