@@ -183,14 +183,14 @@
         <td align="right">8</td>
         <td>
             <img
-                src="readme/reactjs.svg"
-                alt="React Native"
+                src="readme/java.svg"
+                alt="Java"
                 width="15"
             />
             &nbsp;
-            React Native
+            Java 17
         </td>
-        <td align="right">6</td>
+        <td align="right">7</td>
     </tr>
     <tr>
         <td>
@@ -260,7 +260,16 @@
             JSON
         </td>
         <td align="right">7</td>
-        <td colspan="2"></td>
+        <td>
+            <img
+                src="readme/reactjs.svg"
+                alt="React Native"
+                width="15"
+            />
+            &nbsp;
+            React Native
+        </td>
+        <td align="right">6</td>
     </tr>
     <tr>
         <td colspan="2"></td>
