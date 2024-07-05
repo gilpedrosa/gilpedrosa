@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi There</h1>
-<h3 align="center">A passionate full-stack developer from Portugal</h3>
+<h3 align="center">A passionate developer</h3>
 
 <br/>
 
@@ -8,6 +8,10 @@
 <p align="center">
     <a href="https://zeruns.com" target="blank">
         <img align="center" src="readme/www.svg" alt="Web" height="30" width="30" />
+    </a>
+    &nbsp;
+    <a href="https://gitlab.custodiobasilio.pt/gilpedrosa" target="blank" style="text-decoration: none;">
+        <img align="center" src="readme/gitlab.svg" alt="Gitlab" height="30" width="30" />
     </a>
     &nbsp;
     <a href="https://gitlab.com/gilpedrosa" target="blank" style="text-decoration: none;">
@@ -86,9 +90,9 @@
                 width="15"
             />
             &nbsp;
-            Angular/TypeScript
+            TypeScript
         </td>
-        <td align="right">5</td>
+        <td align="right">7</td>
         <td>
             <img
                 src="readme/mongodb.svg"
@@ -142,7 +146,7 @@
             &nbsp;
             Nginx
         </td>
-        <td align="right">5</td>
+        <td align="right">6</td>
     </tr>
     <tr>
         <td>
@@ -177,7 +181,16 @@
             SCSS
         </td>
         <td align="right">8</td>
-        <td colspan="2"></td>
+        <td>
+            <img
+                src="readme/reactjs.svg"
+                alt="React Native"
+                width="15"
+            />
+            &nbsp;
+            React Native
+        </td>
+        <td align="right">6</td>
     </tr>
     <tr>
         <td>
@@ -212,7 +225,7 @@
             &nbsp;
             Flutter
         </td>
-        <td align="right">7</td>
+        <td align="right">4</td>
     </tr>
     <tr>
         <td>
